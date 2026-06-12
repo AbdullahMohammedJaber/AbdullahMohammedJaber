@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Abdullah Jaber 👋
 
-<!--
-**AbdullahMohammedJaber/AbdullahMohammedJaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Developer specializing in scalable cross-platform applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 Flutter Developer with 6+ years of experience
+* 🚀 Building enterprise mobile applications
+* 🔥 Experienced with Firebase, REST APIs, SignalR, WebSockets
+* 🏗️ Clean Architecture, BLoC/Cubit, Dependency Injection
+* 🌍 Based in Palestine
+
+## Tech Stack
+
+### Mobile
+
+Flutter • Dart • Android • iOS
+
+### Backend Integration
+
+REST APIs • Firebase • SignalR • WebSockets
+
+### Architecture
+
+Clean Architecture • BLoC • Cubit • Repository Pattern
+
+### Tools
+
+Git • GitHub • VS Code • Android Studio • Postman
+
+## Featured Projects
+
+### Fils
+
+Marketplace & Live Auctions Platform
+
+**Features**
+
+* Live Auctions
+* Wallet System
+* Real-time Bidding
+* Video Streaming
+* Push Notifications
+
+### OverDeal
+
+Contract Management Platform
+
+**Features**
+
+* Multi-party Contracts
+* Real-time Chat
+* Digital Signatures
+* Nafath Integration
+
+### Task Manager ERP
+
+**Features**
+
+* Employee Management
+* Project Tracking
+* Team Collaboration
+* Reporting Dashboard
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMohammedJaber\&show_icons=true\&theme=tokyonight)
+
+## Contact
+
+📧 [abdullahjaber134@gmail.com](mailto:abdullahjaber134@gmail.com)
